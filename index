@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- hier zet je de code in de head tags -->
+        <title> Tweede Opdracht </title>
+    </head>
+    <body>
+       <!-- hier zet je de code in de body tags-->
+      <title>Drie mooie dingen</title>
+       
+       <p><h3>Drie dingen die ik mooi vind</h3></p>
+       <hr> </hr>
+        <ul><li>Planten</li>
+            <li>Dieren</li>
+            <li>Kunst</li></ul>
+<p>
+        <img src="img/xena.jpg" height="200"></p><p>
+        <a href="about.html" target=_blanc>Over mij</a>
+</p>
+  </body>
+</html>  
